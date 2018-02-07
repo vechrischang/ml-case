@@ -14,4 +14,4 @@ In this task, you will be predicting whether a user will churn after their subsc
 
 In this competition, you're challenged to use reservation and visitation data to predict the total number of visitors to a restaurant for future dates. This information will help restaurants be much more efficient and allow them to focus on creating an enjoyable dining experience for their customers.
 
-- https://github.com/vechrischang/kaggle_work_files/blob/master/kaggle_Recruit%20Restaurant%20Visitor%20Forecasting/kaggle_Recruit%20Restaurant%20Visitor%20Forecasting_b.ipynb
+- https://goo.gl/TZpFTh
