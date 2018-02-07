@@ -6,7 +6,7 @@
 
 - 
 
-    install.python
+ 
 
 ## resteraurant visitiors prediction
 
