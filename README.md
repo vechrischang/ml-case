@@ -6,7 +6,7 @@ In this task, you will be predicting whether a user will churn after their subsc
 #### apply SVM for predictions
 - https://goo.gl/wWBewJ
 
- 
+
 
 ## resteraurant visitiors prediction
 
@@ -16,3 +16,12 @@ In this competition, you're challenged to use reservation and visitation data to
 
 #### apply Xgboost and Keras neural network with weighted predictions
 - https://goo.gl/TZpFTh
+
+
+
+## price prediction by text description
+
+### Goal
+
+It can be hard to know how much something’s really worth. Small details can mean big differences in pricing. For example, one of these sweaters cost $335 and the other cost $9.99. Can you guess which one’s which?
+- 
