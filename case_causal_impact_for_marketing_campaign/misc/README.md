@@ -20,10 +20,10 @@ Once installed, open Postico and:
 1. click 'New Favorite'
 2. enter the following:
 - Nickname: revolut_ht
-- Host: localhost
-- Port: 54320
-- User: postgres
-- Database: ht_db
+- Host: xxx
+- Port: xxx
+- User: xxx
+- Database: xxx
 3. click 'Done' and 'Connect' 
 and you should be able to see the data you just loaded to the database.
 
