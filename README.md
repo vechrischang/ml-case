@@ -4,7 +4,7 @@ This folder is mainly for kaggle cases to show some EDA and ML works.
 
 #### [11 Apr 2020]
 
-- social network analytics.
+- update social network analytics.
 
 #### [24 Feb 2020]
 
