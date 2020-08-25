@@ -1,6 +1,6 @@
 ## Summary
 
-This folder is mainly for kaggle cases to show some EDA and ML works.
+This repository is mainly for kaggle cases to show some EDA and ML works.
 
 #### [11 Apr 2020]
 
