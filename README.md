@@ -1,6 +1,6 @@
 ## Summary
 
-This repository is mainly for kaggle cases to show some EDA and ML works.
+This repository mainly shows ML case studies.
 
 #### [11 Apr 2020]
 
